@@ -1,3 +1,9 @@
+# blackroad-hardware-monitoring
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/blackroad-hardware-monitoring)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/blackroad-hardware-monitoring)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🖤🛣️ BlackRoad Hardware Monitoring
 
 Part of the BlackRoad Product Empire - 350+ enterprise solutions
